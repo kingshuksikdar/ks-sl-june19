@@ -1,0 +1,13 @@
+ICICI_LogoTransaction Reference Number:877441030 Important information:
+ . Beneficiary can expect credit on the same day for NEFT initiated before 5:00 pm IST on working days (Monday to Saturday, except 
+2nd and 4th Saturday of the month).
+ . Actual time taken to credit the Beneficiary account depends on time taken by the Beneficiary Bank to process the payment.
+ . NEFT status message will be sent on your registered mobile number after receiving confirmation from the Beneficiary's Bank.
+ 
+ 
+Transaction typeTransfer Funds to an account in other bank through NEFT
+Date of transaction05/12/2015
+From ICICI bank account128101500903-KINGSHUK SIKDAR
+To payee0112010200008761-BAMBOO
+Transaction amount (INR)INR 6,000.00
+RemarksKingshuk Sikdar
